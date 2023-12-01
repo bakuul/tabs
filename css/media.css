@@ -1,0 +1,9 @@
+@media (max-width: 414px) {
+    .container {
+        width: 90%;
+    }
+    .card1 {
+        width: 300px;
+        height: 400px;
+    }
+}

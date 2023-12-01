@@ -1,0 +1,343 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Barlow', sans-serif;
+}
+
+.container {
+    width: 1300px;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+.card1 {
+    background: url(../img/ozero-issyk-kul_15.jpg) no-repeat center/cover;
+    width: 400px;
+    height: 500px;
+    border-radius: 40px;
+    cursor: pointer;
+    transition: .7s;
+    margin-top: 30px;
+}
+
+.card1:hover {
+    transform: scale(0.9);
+}
+
+.card1 button {
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 9px;
+background: rgba(255, 255, 255, 0.877);
+margin:10px 0 0 310px;
+font-weight: 700;
+color: black;
+border: none;
+}
+
+.card1 h1 {
+    color: #FFF;
+font-size: 30px;
+font-weight: 500;
+margin: 300px 0 0 20px;
+}
+
+.card1 p {
+    color: #ffffffa3;
+    font-size: 15px;
+    font-weight: 500;
+    margin: 10px 10px 0 20px;
+}
+
+.card2 {
+    background: url(../img/ozero_baikal_192.jpg) no-repeat center/cover;
+    width: 400px;
+    height: 500px;
+    border-radius: 40px;
+    cursor: pointer;
+    transition: .7s;
+    margin-top: 30px;
+}
+
+.card2:hover {
+    transform: scale(0.9);
+}
+
+.card2 button {
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 9px;
+background: rgba(255, 255, 255, 0.877);
+margin:10px 0 0 310px;
+font-weight: 700;
+color: black;
+border: none;
+}
+
+.card2 h1 {
+    color: #FFF;
+font-size: 30px;
+font-weight: 500;
+margin: 300px 0 0 20px;
+}
+
+.card2 p {
+    color: #ffffffa3;
+    font-size: 15px;
+    font-weight: 500;
+    margin: 10px 10px 0 20px;
+}
+
+.card3 {
+    background: url(../img/velikie-ozera_148.jpg) no-repeat center/cover;
+    width: 400px;
+    height: 500px;
+    border-radius: 40px;
+    cursor: pointer;
+    transition: .7s;
+    margin-top: 30px;
+}
+
+.card3:hover {
+    transform: scale(0.9);
+}
+
+.card3 button {
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 9px;
+background: rgba(255, 255, 255, 0.877);
+margin:10px 0 0 310px;
+font-weight: 700;
+color: black;
+border: none;
+}
+
+.card3 h1 {
+    color: #FFF;
+font-size: 30px;
+font-weight: 500;
+margin: 300px 0 0 20px;
+}
+
+.card3 p {
+    color: #ffffffa3;
+    font-size: 15px;
+    font-weight: 500;
+    margin: 10px 10px 0 20px;
+}
+
+.card4 {
+    background: url(../img/ozero-balaton_45.jpg) no-repeat center/cover;
+    width: 400px;
+    height: 500px;
+    border-radius: 40px;
+    cursor: pointer;
+    transition: .7s;
+    margin-top: 30px;
+}
+
+.card4:hover {
+    transform: scale(0.9);
+}
+
+.card4 button {
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 9px;
+background: rgba(255, 255, 255, 0.877);
+margin:10px 0 0 310px;
+font-weight: 700;
+color: black;
+border: none;
+}
+
+.card4 h1 {
+    color: #FFF;
+font-size: 30px;
+font-weight: 500;
+margin: 300px 0 0 20px;
+}
+
+.card4 p {
+    color: #ffffffa3;
+    font-size: 15px;
+    font-weight: 500;
+    margin: 10px 10px 0 20px;
+}
+
+.card5 {
+    background: url(../img/goluboe_ozero_8.jpg) no-repeat center/cover;
+    width: 400px;
+    height: 500px;
+    border-radius: 40px;
+    cursor: pointer;
+    transition: .7s;
+    margin-top: 30px;
+}
+
+.card5:hover {
+    transform: scale(0.9);
+}
+
+.card5 button {
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 9px;
+background: rgba(255, 255, 255, 0.877);
+margin:10px 0 0 310px;
+font-weight: 700;
+color: black;
+border: none;
+}
+
+.card5 h1 {
+    color: #FFF;
+font-size: 30px;
+font-weight: 500;
+margin: 300px 0 0 20px;
+}
+
+.card5 p {
+    color: #ffffffa3;
+    font-size: 15px;
+    font-weight: 500;
+    margin: 10px 10px 0 20px;
+}
+
+.card6 {
+    background: url(../img/ozero-takho_24.jpg) no-repeat center/cover;
+    width: 400px;
+    height: 500px;
+    border-radius: 40px;
+    cursor: pointer;
+    transition: .7s;
+    margin-top: 30px;
+}
+
+.card6:hover {
+    transform: scale(0.9);
+}
+
+.card6 button {
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 9px;
+background: rgba(255, 255, 255, 0.877);
+margin:10px 0 0 310px;
+font-weight: 700;
+color: black;
+border: none;
+}
+
+.card6 h1 {
+    color: #FFF;
+font-size: 30px;
+font-weight: 500;
+margin: 300px 0 0 20px;
+}
+
+.card6 p {
+    color: #ffffffa3;
+    font-size: 15px;
+    font-weight: 500;
+    margin: 10px 10px 0 20px;
+}
+
+
+.lakes {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.lakes input {
+    display: none;
+}
+
+.tabs h2 {
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+    font-size: 40px;
+    cursor: pointer;
+    transition: .5s;
+}
+
+.tabs h2:hover {
+    color:rgb(0, 68, 255) ;
+}
+
+.labels {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+    margin: 30px 0;
+    cursor: pointer;
+}
+
+.labels label {
+    transition: .5s;
+}
+
+.labels label:hover {
+    color: rgb(0, 68, 255);
+}
+
+
+#issyk:checked ~ .card2,
+#issyk:checked ~ .card3,
+#issyk:checked ~ .card4,
+#issyk:checked ~ .card5,
+#issyk:checked ~ .card6{
+    opacity: 0.2;
+}
+
+#baykal:checked ~ .card1,
+#baykal:checked ~ .card3,
+#baykal:checked ~ .card4,
+#baykal:checked ~ .card5,
+#baykal:checked ~ .card6{
+    opacity: 0.2;
+}
+
+#usa:checked ~ .card1,
+#usa:checked ~ .card2,
+#usa:checked ~ .card4,
+#usa:checked ~ .card5,
+#usa:checked ~ .card6{
+    opacity: 0.2;
+}
+
+#venger:checked ~ .card1,
+#venger:checked ~ .card2,
+#venger:checked ~ .card3,
+#venger:checked ~ .card5,
+#venger:checked ~ .card6{
+    opacity: 0.2;
+}
+
+#blue:checked ~ .card1,
+#blue:checked ~ .card2,
+#blue:checked ~ .card4,
+#blue:checked ~ .card3,
+#blue:checked ~ .card6{
+    opacity: 0.2;
+}
+
+#taho:checked ~ .card1,
+#taho:checked ~ .card2,
+#taho:checked ~ .card4,
+#taho:checked ~ .card5,
+#taho:checked ~ .card3{
+    opacity: 0.2;
+}
